@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![](https://github.com/ghpham25/web102-project1/blob/main/project1.gif)
+![](https://github.com/ghpham25/web102-project1/blob/main/prj1.gif)
 
 GIF created with Kap
 
