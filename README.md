@@ -2,7 +2,7 @@
 
 Submitted by: **Giang Pham**
 
-This web app: ** this is a community resources board that introduces cafe places in Hanoi for people living in the city**
+This web app: **this is a community resources board that introduces cafe places in Hanoi for people living in the city**
 
 Time spent: **4** hours spent in total
 
@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/ghpham25/web102-project1/blob/main/project1.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
