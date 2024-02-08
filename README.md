@@ -1,12 +1,12 @@
 # *Hanoi Local Cafes Board*
 
 ## Notes
+Built responsive front-end web that displays a list of 10 local Hanoi cafes and the links to their social media pages. 
 Fundamental React front-end. Utilized CSS, HTML and embedded links for extra information. 
 
 ## Features
 
-- [x] **There is a unique theme for events or resources relevant to a specific community**
-- [x] **At least 10 unique resources or events are displayed in a responsive card format**
+- [x] 10 unique cafes are displayed in a responsive card format
 - [x] Buttons or links to a related resources are on each card component
 
 ## Video Walkthrough
